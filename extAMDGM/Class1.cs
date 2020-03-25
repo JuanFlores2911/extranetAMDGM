@@ -8,5 +8,6 @@ namespace extAMDGM
 {
     public class Class1
     {
+        string a = "";
     }
 }
